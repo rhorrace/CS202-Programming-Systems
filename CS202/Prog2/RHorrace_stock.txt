@@ -1,0 +1,8 @@
+Lemon:100
+Cheese:100
+Potatoes:100
+Buns:100
+Chili:100
+Patty:100
+Soda:100
+Water:100

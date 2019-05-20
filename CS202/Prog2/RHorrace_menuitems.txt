@@ -1,0 +1,9 @@
+cheese sliders:appetizer:none
+sliders:appetizer:none
+cheeseburger:entree:fries
+chiliburger:entree:fries
+hamburger:entree:fries
+7UP:drink:none
+coke:drink:none
+lemonade:drink:none
+root beer:drink:none

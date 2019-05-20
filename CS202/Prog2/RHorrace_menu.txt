@@ -1,0 +1,25 @@
+Buns:sliders:appetizer:none
+Buns:cheese sliders:appetizer:none
+Buns:cheeseburger:entree:fries
+Buns:chiliburger:entree:fries
+Buns:hamburger:entree:fries
+Cheese:cheese sliders:appetizer:none
+Cheese:cheeseburger:entree:fries
+Cheese:chiliburger:entree:fries
+Chili:chiliburger:entree:fries
+Lemon:lemonade:drink:none
+Patty:sliders:appetizer:none
+Patty:cheese sliders:appetizer:none
+Patty:cheeseburger:entree:fries
+Patty:chiliburger:entree:fries
+Patty:hamburger:entree:fries
+Potatoes:cheeseburger:entree:fries
+Potatoes:chiliburger:entree:fries
+Potatoes:hamburger:entree:fries
+Soda:7UP:drink:none
+Soda:coke:drink:none
+Soda:root beer:drink:none
+Water:lemonade:drink:none
+Water:7UP:drink:none
+Water:coke:drink:none
+Water:root beer:drink:none
